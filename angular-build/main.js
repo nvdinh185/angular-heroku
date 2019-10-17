@@ -203,7 +203,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\MYDATA\LapTrinhDiDong\ANGULAR\demo-deploy\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! D:\MYDATA\LapTrinhDiDong\ANGULAR\angular-heroku\src\main.ts */"./src/main.ts");
 
 
 /***/ })

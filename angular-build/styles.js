@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\MYDATA\LapTrinhDiDong\ANGULAR\demo-deploy\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\MYDATA\LapTrinhDiDong\ANGULAR\angular-heroku\src\styles.css */"./src/styles.css");
 
 
 /***/ })
